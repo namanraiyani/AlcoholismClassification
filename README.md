@@ -1,5 +1,8 @@
 # AlcoholismClassification
 
+<img width="871" height="624" alt="image" src="https://github.com/user-attachments/assets/0cd1a5bf-9007-41cc-835a-4d4a411af813" />
+
+
 This notebook analyzes EEG (Electroencephalography) data to classify subjects into two groups: Alcoholic and Control. Using signal processing techniques and machine learning, the goal is to identify patterns in brain wave activity that distinguish between the two conditions.
 
 Methodology
